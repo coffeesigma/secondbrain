@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/second-brain/"}
+{"dg-publish":true,"permalink":"/second-brain/","tags":"gardenEntry"}
 ---
 
 test
